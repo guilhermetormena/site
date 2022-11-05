@@ -6,7 +6,7 @@
 /*ADICIONADO FONTE DA PASTA*/
 @font-face {
     font-family: 'Android'; /*nome de chamada da fonte*/
-    src: url('/fontes/idroid.otf') /*diretorio da fonte*/ format('opentype') /*VERIFICAR*/;
+    src: url('../fontes/idroid.otf') /*diretorio da fonte*/ format('opentype') /*VERIFICAR*/;
     font-weight: normal; /*peso da fonte*/
 }
 
